@@ -8,7 +8,7 @@ garfield.comida = "lasagna";
 const tom = new Gato("Tom", "tom.png");
 tom.comida = "albóndigas con salsa";
 const silvestre = new Gato("Silvestre", "silvestre.png");
-silvestre.comida = "asado";
+silvestre.comida = "canario";
 const marie = new Gato("Marie", "marie.png");
 marie.comida = "sushi";
 
